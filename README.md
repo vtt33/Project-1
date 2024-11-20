@@ -12,6 +12,9 @@ Sub Questions:
 
 What are the top five importing countries to the USA?
 
+Instructions: Run TopExport.ipynb jupyter notebook for top five export destinations of the USA.
+
+Run TopImport.ipynb jupyter notebook for top five importing countries to the USA.
 
 
 3- What country (of the top five) has seen the highest growth in US exports in the last five years? - Lannon Grady
