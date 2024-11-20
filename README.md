@@ -16,6 +16,16 @@ Instructions: Run TopExport.ipynb jupyter notebook for top five export destinati
 
 Run TopImport.ipynb jupyter notebook for top five importing countries to the USA.
 
+The results are the top_export_countries.png and the top_import_countries.png
+
+Findings:
+China, Mexico, and Canada are the U.S. top trading partners (Imports and Exports)
+The other two top exporters are Japan and the United Kingdom.
+These five countries combined make up 49.61% of all U.S. exports from 2013-2018.
+
+The other two top importers are Japan and Germany.
+These five countries combined make up 58.57% of all U.S. imports from 2013-2018.
+
 
 3- What country (of the top five) has seen the highest growth in US exports in the last five years? - Lannon Grady
 
