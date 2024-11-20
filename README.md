@@ -35,7 +35,7 @@ What country (of the top five) has seen the highest growth in US imports in the 
 
 
 4- Top categories of goods US imports and exports or overall? - Van Tran
-Run Project-1/Top Products/Top for Export and Import.ipynb for the analysis
+-Run Project-1/Top Products/Top for Export and Import.ipynb for the analysis
 
 - Top export products 
 +NUCLEAR PARTS                       1.245000e+12
