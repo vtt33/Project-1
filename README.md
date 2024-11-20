@@ -51,3 +51,6 @@ I_ENDUSE_LDESC
 +MINERAL FUELS AND PRODUCTS          1.501000e+12
 +MEDICAL PARTS AND ACCESSORIES       4.802935e+11
 
+**SUMMARY: U.S trades trend deficit to same countries and same categrories (import over export). Suggestion: Increase Exports to Developed Countries, Increase Exports to Local Partners Canada & Mexico (NAFTA), Reduce Imports from China, Reduce Top 5 Import Categories: Electronics, Nuclear, Vehicles,  Fuel, Medical, Encourage Domestic Production & Brand Adoption, ncrease Top 5 Export Categories: Nuclear, Electronics, Fuel, Vehicles, Aircraft.
+ 
+
