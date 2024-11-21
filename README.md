@@ -4,9 +4,19 @@ Data Collection & Cleaning: Maxwell Leuthner
 
 Sub Questions:
 
-1- Do US exports trend show a favorable balance of trade for the years covering 2013 – 2018? - Alston Armah
+1- Do US export trends show a favorable balance of trade for the years covering 2013 – 2018? - Alston Armah
 
+The export trends show an unfavorable balance of trade for the US during the years 2013 through 2018. As shown 
+by the trade data, the US experienced a trade deficit of $5,748,578,046,459. How did we derive this conclusion?
+Below is a summary of the step-by-step procedure:
+i. Clean up data and generate sums of exports and imports for all the six years. Use "=sum" and "=sheet" functions.
 
+ii. Plot the export data in jupyter notebook, using this dataframe:
+        'Year': [2013, 2014, 2015, 2016, 2017, 2018],
+        'Exports': [1578516454556, 1621873476729, 1503327678081, 1451023381497, 1546272800436, 1664054778081],
+        'Imports': [2267986733622, 2356356072353, 2248811351481, 2187600097145, 3510159736525, 2542732624713]
+
+iii. Run the code to generate the graph showing the relationship between exports and imports.
 
 2- What countries account for the top five export destinations of the USA? - Toka Hassan
 
