@@ -1,6 +1,11 @@
 # Project-1: Project Overview - What are the US Trade export and import trends?
 
-Data Collection & Cleaning: Maxwell Leuthner
+## Installation and Data Collection
+1- Clone repo
+2- Open a jupyter notebook window or inside of VSCode if able to run ipynb files
+3- Navigate to Csv-Creating.ipynb
+4- Run all blocks inside of the file
+5- Make sure to follow comment instructions in The final two blocks of code
 
 Sub Questions:
 
