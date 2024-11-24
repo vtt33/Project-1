@@ -42,12 +42,8 @@ The other two top importers are Japan and Germany.
 These five countries combined make up 58.57% of all U.S. imports from 2013-2018.
 
 
-3- What country (of the top five) has seen the highest growth in US exports in the last five years? - Lannon Grady
-
-What country (of the top five) has seen the highest growth in US imports in the last five years?
-
-
-
+3- What countries have seen the highest growth in US exports and US imports between 2013 and 2018? - Lannon Grady
+Instructions: Run US_Trade_Presentation.ipynb jupyter notebook. This file will pull Max's CSV data from the local Annual Trade Data folder and build the charts used in our presentation. Sources for this code came from previous classes (particularly the Data Visualization module) and also Google searches that produced helpful AI assists at the top of search results. Given more time, it would have been fun to dive deeper into the data to see what products were driving outsized +82% growth in imports from Ireland, etc.
 
 4- Top categories of goods US imports and exports or overall? - Van Tran
 -Run Project-1/Top Products/Top for Export and Import.ipynb for the analysis
